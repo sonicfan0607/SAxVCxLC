@@ -1,7 +1,7 @@
 # WARNING
 
 This version of SAxVCxLC Sucks like pure fucking dog cocaine and you should try not using this
-i did this because i want to delet things i dont want on mu sax fuck this
+i did this because i want to delet things i dont want on my sax fuck this
 also installer is gay
 ------------------
 Contents

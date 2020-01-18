@@ -1,5 +1,8 @@
 # WARNING
-This version of SAxVCxLC and the installation are still work-in-progress. Some things do not work yet.
+
+This version of SAxVCxLC Sucks like pure fucking dog cocaine and you should try not using this
+i did this because i want to delet things i dont want on mu sax fuck this
+also installer is gay
 ------------------
 Contents
  * Authors, Credits/Special Thanks
@@ -50,6 +53,7 @@ Providing help and additional ressources
 * Crspy - modloader installation fix
 * Beckerbrasil - testing/bug reporting
 * ILOVEFOOTBALL95 - testing/bug reporting
+* me - i suck
 
 Thanks Rock* Games
 
